@@ -1,5 +1,11 @@
-# aiproject2025_k-v-sovai-translator
+#  Subject: Advanced AI PROJECT 2025
 
+Prof: Hyung–Jeong Yang
+
+## Task: Development of a Special-Language Translation AI Model Using Sovereign AI Open-Source LLM
+
+Name: Kim Ngan Phan
+⛔ ***Only used for demonstration of the subject***
 ### Project Structure
 * Json data is collect from National Institute of Korean Language’s Language Resource Sharing Platform
 * Create the following directories to store the original JSON files:
