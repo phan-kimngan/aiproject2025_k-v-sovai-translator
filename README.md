@@ -1,0 +1,1 @@
+# aiproject2025_k-v-sovai-translator
