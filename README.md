@@ -8,7 +8,7 @@
 
 ### Training the Model
 
-1. Slipt the data with ratio of 8:1:1 and save the results in the `Advanced AI Project/ folder
+1. Split the dataset into training, validation, and test sets with a ratio of 8:1:1, then save them in the Advanced AI Project/ directory.
 2. Run the following command to train the model using the preprocessed data. The trained model will be saved in `skt-ax3.1light-kor-vie-qlora/` and `skt-ax3.1light-vie-kor-qlora/` directories:
 
    ```
@@ -18,7 +18,7 @@
    python train-vie2kor.py
    ```   
 
-3. Run the following command to get predictions of `skt-ax3.1light-kor-vie-qlora/` and `skt-ax3.1light-vie-kor-qlora/` model:
+3. Run the following command to generate translation outputs using the trained models:
 
    ```
    python inference_kor2vie.py
